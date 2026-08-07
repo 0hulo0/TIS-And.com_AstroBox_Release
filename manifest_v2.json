@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "com.application.watch.demo",
+    "restype": "quick_app",
+    "name": "茶叶蛋大冒险",
+    "description": "[ 简介 ]茶叶蛋大冒险是一款为小米手环10 Pro开发的像素风平台解谜游戏。玩家控制茶叶蛋在白底方格纸上跳跃闯关，避开尖刺障碍，走到终点门即可通关。游戏包含100个各不相同的手工设计关卡，难度循序渐进。\n关卡数：100关\n操作方式：底部三键控制（左 / 跳 / 右），按一下动一下的离散闯关模式\n特点：激活码离线校验、关卡选择、重玩/结束按钮\n\n[ 福利 ]该游戏为付费游戏，幸运玩家可享受0.6元购买游戏！\n\n[ 付费游戏 ]售价：3元（会员价：1元），一次激活永久更新！\n\n[ QQ交流群 ]：1040361015，可反馈Bug与交流游戏，只要你反馈了Bug给我，核实后，我下个版本一定会修！",
+    "preview": [
+      "xiaomi_band_pro-2026-08-06-22-20-14.png",
+      "xiaomi_band_pro-2026-08-06-22-20-44.png",
+      "xiaomi_band_pro-2026-08-06-22-20-52.png",
+      "xiaomi_band_pro-2026-08-06-22-21-03.png",
+      "retouch_2026080622323925.jpg",
+      "afdian-Agr_.jpg"
+    ],
+    "icon": "logo.png",
+    "cover": "IMG_20260808_064251.png",
+    "author": [
+      {
+        "name": "Agr.",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "茶叶蛋大冒险—1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
